@@ -73,7 +73,7 @@ fun Desenfocar(resources: Resources) {
                     imageUrl = imageUrl,
                     10000000,
                     resources = resources,
-                    contentDescription = "Usar Image Blurhash"
+                    contentDescription = "Usar Imagen Blurhash"
                 )
             }
         }
